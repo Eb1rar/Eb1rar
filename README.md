@@ -33,4 +33,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Eb1rar&icon=3&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/MucahitKartal/MucahitKartal/blob/output/github-contribution-grid-snake-dark.svg)
