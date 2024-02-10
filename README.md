@@ -26,7 +26,6 @@
 ## ***My projects***
 | Projects' Live Link                | Technologies Used      | Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
-
 | [Stock Management App](https://stock-management-app-mocha.vercel.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Axios, React-Helmet, Tailwind CSS,Prime-React, React toastify, React-icons | [Repo Link](https://github.com/Eb1rar/stock-management-app)   |
 | [Rock Legends](https://alternative-rock-legends.vercel.app/) | React, useState and useSound Hooks, CSS3 | [Repo Link](https://github.com/Eb1rar/Alternative-Rock-Legends)   |
 | [Tours](https://tours-project-indol.vercel.app/) | React, useState and useEffect Hooks, API, Async, Await, CSS3  | [Repo Link](https://github.com/Eb1rar/tours-project)   |
