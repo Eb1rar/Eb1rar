@@ -6,8 +6,8 @@
 <h1 align="center">Hi 👻, I'm Ebrar</h1>
 <h3 align="center">💫 A passionate frontend developer 💫</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eb1rar&label=Profile%20views&color=0e75b6&style=flat" alt="eb1rar" /> </p>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="90" align="right">&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eb1rar&label=Profile%20views&color=0e75b6&style=flat"  width="150" alt="eb1rar" /> </p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="110" align="right">&nbsp;
 
 - 🌱 I’m currently learning **React, Redux, MUI, Tailwind CSS**
 
