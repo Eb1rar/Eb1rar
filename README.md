@@ -42,5 +42,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Eb1rar&icon=3&color=6)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/Eb1rar/Eb1rar/blob/output/github-contribution-grid-snake-dark.svg)
